@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+authors:
+  - family-names: Gainulla
+    given-names: Yeraly
+title: "RL-JAX-BOOTCAMP-Yeraly"
+version: "0.1.0"
+year: 2025
+doi: "TBD"
